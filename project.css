@@ -287,7 +287,7 @@ figcaption a{
 }
 .proj-done{
     flex-grow: 0;
-    flex-shrink: 5;
+    flex-shrink: 0;
     height: 200px;
     /* flex: 0 0 250px; */
 }
