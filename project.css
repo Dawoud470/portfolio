@@ -280,10 +280,10 @@ figcaption a{
     text-align:left;
 }
 .grid-container{
-    /* display:flex;
+    display:flex;
     flex-wrap:wrap;
-    align-items: center; */
-    /* gap:20px */
+    align-items: center; 
+     gap:20px
 }
 .proj-done{
     flex-grow: 0;
