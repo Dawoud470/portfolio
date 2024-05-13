@@ -288,6 +288,7 @@ figcaption a{
 .proj-done{
     flex-grow: 0;
     flex-shrink: 5;
+    height: 200px;
     /* flex: 0 0 250px; */
 }
 @media only screen and (min-width: 768px){
