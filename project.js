@@ -1,27 +1,27 @@
 const projectDone = [
     {
-        img: "images/pexels-miguel-á-padriñán-3785927.jpg",
-        link: "https://github.com/gerismumo",
+        img: "pexels-miguel-á-padriñán-3785927.jpg",
+        link: "",
         name: "Cummins page"
     },
     {
-        img: "images/pexels-photomix-company-230544.jpg",
-        link: "https://github.com/gerismumo",
+        img: "pexels-photomix-company-230544.jpg",
+        link: "",
         name: "Landing page"
     },
     {
-        img: "images/pexels-tranmautritam-326522.jpg",
-        link: "https://github.com/gerismumo",
+        img: "pexels-tranmautritam-326522.jpg",
+        link: "",
         name: "Aroma cafe"
     },
     {
-        img: "images/pexels-mikael-blomkvist-6476595.jpg",
-        link: "https://github.com/gerismumo",
+        img: "pexels-mikael-blomkvist-6476595.jpg",
+        link: "",
         name: "Essay page"
     },
     {
-        img: "images/pexels-cottonbro-studio-5077053.jpg",
-        link: "https://github.com/gerismumo",
+        img: "pexels-cottonbro-studio-5077053.jpg",
+        link: "",
         name: "Peter airanb"
     }
 ]
